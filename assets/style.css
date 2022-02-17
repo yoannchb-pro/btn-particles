@@ -1,0 +1,47 @@
+body,html {
+    margin: 0;
+    padding: 0;
+
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    list-style: none;
+    color: initial;
+}
+
+button {
+    width: 100%;
+    padding: 1em 1.5em;
+    font-size: 1em;
+    font-weight: 400;
+    font-family: "Helvetica", "Arial", sans-serif;
+    background-image: linear-gradient(to right, #e55d87, #5fc3e4);
+    border-radius: 4px;
+    cursor: pointer;
+    appearance: none;
+    border: none;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+#btn2{
+    background: linear-gradient(to right, #1488cc, #2b32b2);
+}
+
+#btn3{
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to top, #14cc8f, #8eb22b);
+}
+
+#btn4{
+    background-image: linear-gradient(to bottom, #ad4848, #6e1e1e);
+}
