@@ -1,0 +1,24 @@
+{
+  "name": "btn-particles",
+  "version": "1.0.0",
+  "description": "Create beautiful particles on buttons",
+  "main": "./src/btn.particles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoannchb-pro/btn-particles.git"
+  },
+  "keywords": [
+    "particles",
+    "buttons",
+    "vuejs"
+  ],
+  "author": "yoannchb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoannchb-pro/btn-particles/issues"
+  },
+  "homepage": "https://github.com/yoannchb-pro/btn-particles#readme"
+}
